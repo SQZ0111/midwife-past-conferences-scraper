@@ -1,0 +1,29 @@
+#excluding Libs and pyvenv.cfg
+Lib
+pyvenv.cfg
+data/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+
+# Log files
+*.log
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# IDE and editor folders/files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store  # For macOS
+Thumbs.db  # For Windows
